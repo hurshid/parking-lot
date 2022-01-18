@@ -1,0 +1,4 @@
+create 6
+park KA-01-BB-0001
+leave KA-01-BB-0001 4
+status

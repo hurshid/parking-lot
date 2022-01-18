@@ -1,0 +1,6 @@
+create 6
+park KA-01-HH-1234
+park KA-01-BB-0001
+leave KA-01-BB-0001 4
+status
+park KA-01-P-333
